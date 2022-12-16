@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 77401f10d9d8643a2a3be52d2e055104
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anthony-DanielJean-Baptiste
+    second: {fileID: 2100000, guid: d86b48d1ddf2a4104a69f77c9e239144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Anthony-DanielJean-Baptiste_Metal
+    second: {fileID: 2100000, guid: 428912fcd9d9b0e3db40a8f1c2cf8579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Benjamin_Riopel
+    second: {fileID: 2100000, guid: 08302469b6867bd85b948e345551fa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dussureault_Dominik
+    second: {fileID: 2100000, guid: 3e69d3a42b26b7c5b92467be615e3741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FortierShayne_Barreaux
+    second: {fileID: 2100000, guid: 1bc22864be7ea1e139009d90244114e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FortierShayne_Bois
+    second: {fileID: 2100000, guid: 01442c3868b84254a9c9a2ff45cb10d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FortierShayne_Brique
+    second: {fileID: 2100000, guid: 6f6a84f50703a508e87db25f8645db61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FortierShayne_Metal
+    second: {fileID: 2100000, guid: 49d5cae3ba33b4e5594b588fdc1fb0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Justin_Harrison_Bois1
+    second: {fileID: 2100000, guid: de3f8f9179c349be1a5ecdb2e36b4429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Justin_Harrison_Bois2
+    second: {fileID: 2100000, guid: b68cb3fc1e86c1715934395c4c77faef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Justin_Harrison_Pierre
+    second: {fileID: 2100000, guid: e30d40920fbbd8902ac19718f39e1888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Justin_Harrison_Toit
+    second: {fileID: 2100000, guid: d6fa9b40bf847cb82892a1c7f251d176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Justin_Harrison_Vitres
+    second: {fileID: 2100000, guid: cf87c0da8008bb9389c4d995e59aadb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatBenoitLavigne
+    second: {fileID: 2100000, guid: 3549c8792003645b285da3074fe674db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MatBenoitLavigne.001
+    second: {fileID: 2100000, guid: b541444d41723db7d8ab3c75c723e63a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnon.nom
+    second: {fileID: 2100000, guid: 05e31da845491f5a599e98f38892fc8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnonBois
+    second: {fileID: 2100000, guid: 97f997f9032489b72adc8268a617dfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnonRoche
+    second: {fileID: 2100000, guid: d9011fe68030eb71988b879466b3ea3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnonSol
+    second: {fileID: 2100000, guid: 9817f94f1ee513e0ea1395a93e386ae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnonToit
+    second: {fileID: 2100000, guid: a80f1c03905fd3e02ac5d7c34a79c820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pierre-carlGagnonvers
+    second: {fileID: 2100000, guid: 33f12c85ea100634f9f3b00cbc34a65f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plancher
+    second: {fileID: 2100000, guid: 5334fcc6cbd2dab6db8abe33429d5fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Provost_Jeremy_Bois
+    second: {fileID: 2100000, guid: 1780b29186db92951a20dd6a4f621b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Provost_Jeremy_Metal
+    second: {fileID: 2100000, guid: 9d6132c423e2750b8a623eac930b056b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Provost_jeremy_Vitre
+    second: {fileID: 2100000, guid: 2450f91f17e9674a988f6c70a750d261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Bois_Piliers
+    second: {fileID: 2100000, guid: 4c1c63edb05e33a7387219ab1229be54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Brique_Maison
+    second: {fileID: 2100000, guid: 37a4a9c5134fd87aab50318638a86079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Fenetre
+    second: {fileID: 2100000, guid: f512bd3382ab6c1c2b5b7277bd2a6025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Fils_Metal
+    second: {fileID: 2100000, guid: afbbb074d8b09b98cb45ead26a1867fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Liquide_Potion
+    second: {fileID: 2100000, guid: 9343e72c3985bf07285ec1c647042a82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Or
+    second: {fileID: 2100000, guid: 9016a01c4c8a122449f7eebf7a108ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Toit
+    second: {fileID: 2100000, guid: ea2adf19df6d09c81a230eba30eb6412, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samson_Antoine_Vitre
+    second: {fileID: 2100000, guid: 1b65b2c3c225e55a6b868b1575039e4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Samuel_Blondeau-Fournel_Mat
+    second: {fileID: 2100000, guid: 43c69ff95ece2ee9b87bab644755e734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barre_hugo
+    second: {fileID: 2100000, guid: 10c7bb3ffbd6ea1599b52fc32e82304f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eugeniu_enachii_Bois
+    second: {fileID: 2100000, guid: 2483b72c1c56d719a889f4987474b814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eugeniu_enachii_Buche
+    second: {fileID: 2100000, guid: fbfc77a3b7dc5d38990acc4c95b9ae42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eugeniu_enachii_Metal
+    second: {fileID: 2100000, guid: d6c3d8baf8cdd772289011a885b91d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eugeniu_enachii_Toiture
+    second: {fileID: 2100000, guid: c3fc47643159c43b094f4207c0850a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eugeniu_enachii_Vitre
+    second: {fileID: 2100000, guid: f9f03450e637729a7a601b9b411d9f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: evan_sanhueza_gazon
+    second: {fileID: 2100000, guid: d690e997c634d0608aa5ce9c06c51272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: evan_sanhueza_textures
+    second: {fileID: 2100000, guid: aa799193823ad85b89c6890a80a7c587, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: evan_sanhueza_vitre
+    second: {fileID: 2100000, guid: fdecfa5f96608ddfea0a3440bb43c20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jordan_dallaire_Enclume
+    second: {fileID: 2100000, guid: 66d975fc603fdf79394ca0e8704e8a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jordan_dallaire_Forge
+    second: {fileID: 2100000, guid: bfbf0543876fc4400a6ffa942780294d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jordan_dallaire_Pogner
+    second: {fileID: 2100000, guid: 175cdb37ec50781eeba957e2dbb866f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jordan_dallaire_texture
+    second: {fileID: 2100000, guid: 1bf820465f0846778a1f083b8f9c7974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: langlois_guillaume_enseigne
+    second: {fileID: 2100000, guid: fb3152ff004e2e15489db9f9bac0eaa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: langlois_guillaume_potion
+    second: {fileID: 2100000, guid: 172b3b8b49630aea4bf8b8c6b4eaa899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: langlois_guillaume_textures
+    second: {fileID: 2100000, guid: 6cb54b64613c624f9be1ac3d2477f668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leandrepel_text_clear
+    second: {fileID: 2100000, guid: df3d30989cb0fab62b4d9a9998c3fc3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leandrepel_text_metal
+    second: {fileID: 2100000, guid: a56995cfebc3d3e19b11ec434bd40767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leandrepel_text_rough
+    second: {fileID: 2100000, guid: 89d2978125ad023cebe7ced293bb569d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leandrepel_text_swords
+    second: {fileID: 2100000, guid: 9596ce82f2167b9b791149920fa5e93e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_Brun
+    second: {fileID: 2100000, guid: a311c5135458994d7ba2119d3f2bb7ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_enseigne
+    second: {fileID: 2100000, guid: 9d7f4a12d241ec2388874e73cfea1adb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_mur_texture
+    second: {fileID: 2100000, guid: 0228e3f72e56cce949d3ca5a92d7ae02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_pierre_texture
+    second: {fileID: 2100000, guid: 7e673bd9e420b4e7ab7a9375cc522d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_plancher_texture
+    second: {fileID: 2100000, guid: dc0c35b1d03d63a6686f1eb878c48dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nadon.noemie_poutre_texture
+    second: {fileID: 2100000, guid: fe64b16190f5819b48ba00f804917f85, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

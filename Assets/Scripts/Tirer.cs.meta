@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c849bcbaecbb0488ab579b069bebbf0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mire: {instanceID: 0}
+  - regard: {instanceID: 0}
+  - gestionNiveau: {instanceID: 0}
+  - gunShot: {fileID: 8300000, guid: 7b1182af4b51e650ba5db690bf01e096, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

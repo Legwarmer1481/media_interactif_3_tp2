@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ed071a8b8017c253875e27754c75507, type: 3}
+  m_Name: SnowInSummer
+  m_EditorClassIdentifier: 
+  intro:
+  - {fileID: 8300000, guid: 6444fae4cb3c94eac86be7a612ab9f74, type: 3}
+  - {fileID: 8300000, guid: 049532ee7a0b38dfaa3cae29903e2bab, type: 3}
+  - {fileID: 8300000, guid: 6a64cb9246768805792d499cc32a1652, type: 3}
+  loop:
+  - {fileID: 8300000, guid: 21cd230de7d7d8dd5869e39ef37b50c5, type: 3}
+  - {fileID: 8300000, guid: f718f67f3611935cdbf9c70df6acddb5, type: 3}
+  - {fileID: 8300000, guid: ceb40437b1234f39fbe33ac0875a1068, type: 3}
+  last: []
+  lastLoopSamples: 0
