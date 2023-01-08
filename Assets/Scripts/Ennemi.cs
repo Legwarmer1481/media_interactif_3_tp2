@@ -6,6 +6,8 @@ using UnityEngine.AI;
 public class Ennemi : MonoBehaviour
 {
 
+    // Les Headers
+
     [Header("État")]
     private bool inRange = false;
     private bool aggressif = false;
